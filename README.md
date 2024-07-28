@@ -11,7 +11,7 @@
 </h1>
  
   
-#### :woman_technologist: Меня зовут Тарасова Надежа. Я начинающий QA Engineer.
+#### :woman_technologist: Меня зовут Тарасова Надежда. Я начинающий QA Engineer.
 
 ---
 
